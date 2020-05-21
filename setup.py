@@ -16,7 +16,7 @@ setuptools.setup(
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
-        "Operating System :: Ubuntu 18.04",
+        "Operating System :: POSIX :: Linux",
     ],
     python_requires='>=3.6',
 )
